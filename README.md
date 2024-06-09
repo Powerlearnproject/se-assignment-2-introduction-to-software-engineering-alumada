@@ -21,7 +21,7 @@ Answer:
 5. Testing involves systematically detecting and correcting faults and problems. This includes unit testing, integration testing, system testing, and acceptance testing.
 6. Deployment: The software is released to the production environment, allowing users to begin using it.
 7. Maintenance is the process of upgrading and improving software after it has been deployed in order to fix bugs or add new features.
-
+END
 
 Agile vs. Waterfall Models:
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
